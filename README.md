@@ -8,6 +8,12 @@ First version of my online resume
 - HTML 5
 - CSS 3
 
+# Framework used
+- Bootstrap via cdn
+
+# Font
+- Fontawesome
+
 # Informations
 * Entierly responsive for mobile and 3 other breakpoints for desktop users
 * This resume is build for a potential intership application during my studies
