@@ -20,3 +20,9 @@ First version of my online resume
 
 # To come
 - JS functionalities
+
+#Screenshots
+
+![alt tag](https://user-images.githubusercontent.com/73991398/99701324-9a77c900-2a94-11eb-8b65-4f0e5a9e4053.png)
+
+![alt tag](https://user-images.githubusercontent.com/73991398/99701316-95b31500-2a94-11eb-9013-dfa91db4a14b.png)
