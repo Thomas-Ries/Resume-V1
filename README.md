@@ -1,4 +1,4 @@
-# curriculum-vitae-V1
+# Resume V1
 First version of my online resume
 
 # Date
@@ -11,3 +11,6 @@ First version of my online resume
 # Informations
 * Entierly responsive for mobile and 3 other breakpoints for desktop users
 * This resume is build for a potential intership application during my studies
+
+# To come
+- JS functionalities
