@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+    font-family: roboto, sans-serif;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.con-main {
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    background-image: url(../img/moutains.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.con-text h1, h2, h3 {
+    color: #000;
+    text-align: left;
+}
+
+.con-text h1 {
+    margin-top: 5px;
+    font-size: 15px;
+    margin-bottom: 2px;
+}
+
+.con-text h2 {
+    font-size: 13px;
+    margin-top: 2px;
+    font-style: italic;
+}
+
+.con-text h3 {
+    font-size: 15px;
+    margin-top: 35px;
+    text-align: left;
+    text-decoration: overline;
+}
+
+
+@media only screen and (min-width: 520px) {
+
+body {
+   
+}
+
+.con-main {
+    background-image: url("../img/mommy.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+}
+
+.con-text {
+    position: relative;
+}
+
+.con-text h1, h2 {
+    color: #000;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+
+}
+
+.con-text h1 {
+    font-family: dancing-script, roboto, sans-serif; /* Police ne fonctionne pas, à revoir ! */
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 600px;
+}
+
+.con-text h2 {
+    font-size: 20px;
+    margin-left: 625px;
+}
+
+.con-text h3 {
+    width: 200px;
+    margin-top: 780px;
+    margin-left: 670px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius : 40px;
+    box-shadow: 8px 8px 15px lightslategray;
+    text-decoration: none;
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    color: #FFF;
+    transition: color 1s;
+}
+
+@media only screen and (min-width: 850px) {
+    .con-main {
+        background-image: url("../img/mommy.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        background-attachment: fixed;
+        position: fixed;
+    }
+}

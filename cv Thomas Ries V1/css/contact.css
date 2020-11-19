@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+label {
+    display:block;
+    float:left;
+    width:150px;
+    text-align:right;
+    padding:0 5px 0 0
+  }
+  input {float:left}
