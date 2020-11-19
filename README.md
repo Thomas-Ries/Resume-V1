@@ -23,6 +23,6 @@ First version of my online resume
 
 #Screenshots
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99701324-9a77c900-2a94-11eb-8b65-4f0e5a9e4053.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/99702111-b3cd4500-2a95-11eb-8858-b7b0a801f2f8.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99701316-95b31500-2a94-11eb-9013-dfa91db4a14b.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/99702216-d2334080-2a95-11eb-985a-1691dda2dbe7.png)
