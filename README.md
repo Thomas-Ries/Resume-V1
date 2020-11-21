@@ -21,7 +21,7 @@ First version of my online resume
 # To come
 - JS functionalities
 
-#Screenshots
+# Screenshots
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/99702111-b3cd4500-2a95-11eb-8858-b7b0a801f2f8.png)
 
