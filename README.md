@@ -11,15 +11,16 @@ First version of my online resume
 # Framework used
 - Bootstrap via cdn
 
-# Font
+# Icons
 - Fontawesome
 
 # Informations
-* Entierly responsive for mobile and 3 other breakpoints for desktop users
+* Entierly responsive for Iphones and 3 other breakpoints for desktop users
 * This resume is build for a potential intership application during my studies
 
 # To come
 - JS functionalities
+- Full mobile responsive
 
 # Screenshots
 
